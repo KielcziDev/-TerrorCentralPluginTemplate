@@ -1,0 +1,8 @@
+C:\Users\barte\source\repos\TerrorCentralPluginTemplate\TerrorCentralPluginTemplate\bin\Debug\TerrorCentralPluginTemplate.dll
+C:\Users\barte\source\repos\TerrorCentralPluginTemplate\TerrorCentralPluginTemplate\bin\Debug\TerrorCentralPluginTemplate.pdb
+C:\Users\barte\source\repos\TerrorCentralPluginTemplate\TerrorCentralPluginTemplate\obj\Debug\TerrorCentralPluginTemplate.csproj.AssemblyReference.cache
+C:\Users\barte\source\repos\TerrorCentralPluginTemplate\TerrorCentralPluginTemplate\obj\Debug\TerrorCentralPluginTemplate.Properties.Resources.resources
+C:\Users\barte\source\repos\TerrorCentralPluginTemplate\TerrorCentralPluginTemplate\obj\Debug\TerrorCentralPluginTemplate.csproj.GenerateResource.cache
+C:\Users\barte\source\repos\TerrorCentralPluginTemplate\TerrorCentralPluginTemplate\obj\Debug\TerrorCentralPluginTemplate.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\TerrorCentralPluginTemplate\TerrorCentralPluginTemplate\obj\Debug\TerrorCentralPluginTemplate.dll
+C:\Users\barte\source\repos\TerrorCentralPluginTemplate\TerrorCentralPluginTemplate\obj\Debug\TerrorCentralPluginTemplate.pdb
